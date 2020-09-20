@@ -1,5 +1,8 @@
-## Welcome to GitHub Pages
-#### This is the first edit I am making
+# AI Aero Incorporated
+## Welcome
+
+### About Us
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 You can use the [editor on GitHub](https://github.com/aachauhan/sie-515/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,10 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
