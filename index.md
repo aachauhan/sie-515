@@ -1,8 +1,7 @@
 # HV RACING INC
 
-```
-Image LOGO ![Image](src)
-```
+<img src="https://raw.githubusercontent.com/aachauhan/sie-515/gh-pages/logo_min.png" width="120">
+
 ## Welcome
 
 ### About Us
