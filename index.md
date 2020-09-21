@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Interesting facts about the company
 
 ### Problem statement
-Please click [here] (https://www.google.com) to open the problem statement.
+Please click [here!](https://google.com) to open the problem statement.
 
 You can use the [editor on GitHub](https://github.com/aachauhan/sie-515/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
